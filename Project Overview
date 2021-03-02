@@ -1,4 +1,18 @@
 Hello. This branch will be used for information regarding my newest writing project, Project FN, which stands for Fantasy Novel. What will this repository hold?
 Branches:
 Information - Overall Information regarding the book
-Book - The actual book itself
+
+Book - The full book itself
+
+Chapters - Files of chapters will go here
+
+Character Arcs - This branch will hold the character arcs
+
+Files in branches:
+Project Overview (Information Branch) - The file you are reading right now. This will hold anything and everything in terms of facts, stats, etc. regarding the overall project.
+
+Full Story (Book Branch) - The file holding the full story
+
+Chapter 1 - idk how many (Chapters Branch) - Chapters will be located in this branch
+
+Prince's Character Arc (Character Arcs Branch) - The file for the Prince's character arc
